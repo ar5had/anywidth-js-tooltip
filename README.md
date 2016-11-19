@@ -1,6 +1,6 @@
 # anywidth-tooltip
 
-![Screenshot](http://url/to/img.png)
+![Screenshot](https://github.com/arshdkhn1/anywidth-js-tooltip/blob/master/screenshot/demo.png?raw=true)
 
 Tooltip that doesn't break at any width of screen.
 
