@@ -5,8 +5,10 @@ Code credit goes to [osvaldas.info](https://osvaldas.info/elegant-css-and-jquery
 
 Codepen demo - http://codepen.io/arshdkhn1/pen/aBBXBq
 
-Working:
+**Working:**
 
-1- copy paste the js and css code to your files.
+  * Copy and paste the js and css code to your files.
 
-2- add `rel="tooltip"` and `title="tooltipContent"` to elements that you want to have tooltip.
+  * Add `rel="tooltip"` and `title="tooltipContent"` to elements that you want to have tooltip.
+
+Done!
